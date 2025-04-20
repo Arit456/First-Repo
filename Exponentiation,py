@@ -1,0 +1,7 @@
+def ex():
+    a = int(input("Enter the base value: "))
+    b = int(input("Enter the exponent value: "))
+    x = a ** b
+    print("The exponentiation =", x)
+
+ex()
